@@ -4,20 +4,25 @@
 int main(void)
 {
     // Values to represent:
+
     // Height of a pyramid
     // A hash (#)
-    // Currency value
+    // Cash amount
     // Value of a quarter
     // Value of a dime
     // Credit card number
 
-    // Initialize the above values using the following syntax:
+    // We can initialize the above values using the following syntax:
     // [data_type] [name] = [value];
 
-    // Print them using their corresponding format code:
+    // Do so here!
+
+    
+
+    // Now, let's print each value using its corresponding format code (e.g. "%s", "%i", "%d", "%c"):
     printf("Height: \n");
     printf("Hash: \n");
-    printf("Currency: \n");
+    printf("Cash amount: \n");
     printf("Quarter value: \n");
     printf("Dime value: \n");
     printf("Credit card number: \n");
