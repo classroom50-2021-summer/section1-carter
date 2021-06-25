@@ -18,7 +18,7 @@
 - <b>Your first Codespace</b> | 10 minutes | TF-led demonstration + Q&A
 	- What is a Codespace?
     - The magic of the terminal 
-    - Codespace quirks
+    - Codespace quirks (Rebuild any existing Codespaces to patch a bug in submit50)
  - <b>submit50, check50, and other "command-line" tools</b> | 5 minutes 
 
 #### Deliberate problem set practice (50 - 60 minutes):  :wrench:
