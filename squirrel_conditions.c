@@ -40,7 +40,7 @@ int main(void)
     
     squirrels = get_int("No really, how many squirrels do you have? ");
 
-
+    // Write your if statement and condition below!
 
 }
 

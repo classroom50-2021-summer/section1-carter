@@ -16,7 +16,7 @@ int main(void)
     // [data_type] [name] = [value];
 
     // Do so here!
-
+    
     
 
     // Now, let's print each value using its corresponding format code (e.g. "%s", "%i", "%d", "%c"):
