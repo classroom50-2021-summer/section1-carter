@@ -37,16 +37,10 @@ int main(void)
     Not: ! (Place in front of a condition to negate it, e.g. "!=" for not equal)
     */
 
-    /*
+    
     squirrels = get_int("No really, how many squirrels do you have? ");
-    if ([Insert your condition here!])
-    {
-            printf("That's a good number of squirrels!\n");
-    }
-    else
-    {
-            printf("That's not a good number of squirrels.\n");
-    }
-    */
+
+
+
 }
 
